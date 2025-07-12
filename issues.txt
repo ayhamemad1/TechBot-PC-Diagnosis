@@ -1,0 +1,10 @@
+No Power
+No Internet Connection
+Slow Boot
+Blue Screen of Death (BSOD)
+Overheating
+Random Shutdowns / Restarts
+POST Beep Codes at Startup
+System Freezes / Unresponsive Applications
+Disk Read/Write Errors
+USB Devices Not Recognized
