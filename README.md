@@ -1,9 +1,9 @@
-# 🧠 TechBot - PC Diagnosis Expert System
+#  TechBot - PC Diagnosis Expert System
 
 TechBot is an expert system that helps diagnose common PC issues based on user responses.  
 It uses a rule-based inference engine (`experta`) and a GUI built with `PyQt5`.
 
-## 💡 Features
+##  Features
 - Diagnoses issues like:
   - No Power
   - Overheating
@@ -14,12 +14,12 @@ It uses a rule-based inference engine (`experta`) and a GUI built with `PyQt5`.
 - Rule-based knowledge system
 - Interactive Yes/No GUI for troubleshooting
 
-## 🛠 Tech Stack
+##  Tech Stack
 - Python 3.x
 - `experta`
 - `PyQt5`
 
-## ▶️ How to Run
+##  How to Run
 
 Install required libraries:
 ```bash
@@ -31,6 +31,6 @@ Then run:
 python techbot_gui.py
 ```
 
-## 📥 Notes
+##  Notes
 - The system is designed for demo and educational purposes.
 - You can extend the rules to include more technical cases.
